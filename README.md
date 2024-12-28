@@ -37,9 +37,9 @@ This project is a **full-stack Laravel application** that scaffolds **Vue.js** u
 
 Ensure you have the following installed on your system:
 
--   PHP (>=8.0)
+-   PHP (>=8.2)
 -   Composer
--   Node.js (>=16.x)
+-   Node.js (>=20.x)
 -   npm or yarn
 -   MySQL or another database system supported by Laravel
 
